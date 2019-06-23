@@ -1,0 +1,535 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Completion"
+- "AuthServices"
+provides-nominal:
+- "8HealthAI12AuthServicesC"
+provides-member:
+- ["8HealthAI12AuthServicesC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AnyObject"
+- !private "Auth"
+- !private "AuthErrorCode"
+- "AuthServices"
+- !private "CastingPrecedence"
+- "Completion"
+- "Database"
+- "DatabaseReference"
+- !private "Dictionary"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSError"
+- "String"
+- "StringLiteralType"
+- !private "UnicodeScalarType"
+- "User"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["So7FIRAuthC", "auth"]
+- !private ["So7FIRAuthC", "createUser"]
+- !private ["So7FIRAuthC", "signIn"]
+- !private ["So17FIRAuthDataResultC", "user"]
+- ["So16FIRAuthErrorCodeV", "credentialAlreadyInUse"]
+- ["So16FIRAuthErrorCodeV", "emailAlreadyInUse"]
+- !private ["So16FIRAuthErrorCodeV", "init"]
+- ["So16FIRAuthErrorCodeV", "invalidEmail"]
+- ["So16FIRAuthErrorCodeV", "sessionExpired"]
+- ["So16FIRAuthErrorCodeV", "weakPassword"]
+- ["So16FIRAuthErrorCodeV", "wrongPassword"]
+- !private ["8HealthAI12AuthServicesC", "Auth"]
+- !private ["8HealthAI12AuthServicesC", "AuthErrorCode"]
+- ["8HealthAI12AuthServicesC", "AuthServices"]
+- ["8HealthAI12AuthServicesC", "Completion"]
+- ["8HealthAI12AuthServicesC", "Database"]
+- ["8HealthAI12AuthServicesC", "DatabaseReference"]
+- ["8HealthAI12AuthServicesC", "NSError"]
+- ["8HealthAI12AuthServicesC", "String"]
+- ["8HealthAI12AuthServicesC", "User"]
+- !private ["8HealthAI12AuthServicesC", "_instance"]
+- ["8HealthAI12AuthServicesC", "createUserProfile"]
+- ["8HealthAI12AuthServicesC", "databaseRef"]
+- ["8HealthAI12AuthServicesC", "handleFirebaseError"]
+- ["8HealthAI12AuthServicesC", "init"]
+- ["8HealthAI12AuthServicesC", "instance"]
+- ["8HealthAI12AuthServicesC", "login"]
+- !private ["8HealthAI12AuthServicesC", "print"]
+- ["8HealthAI12AuthServicesC", "signup"]
+- !private ["SK", "components"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_code"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "components"]
+- !private ["s7CVarArgP", "createUser"]
+- ["s7CVarArgP", "database"]
+- !private ["s7CVarArgP", "debugDescription"]
+- !private ["s7CVarArgP", "email"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "setValue"]
+- !private ["s7CVarArgP", "signIn"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "uid"]
+- !private ["s7CVarArgP", "user"]
+- !private ["Sl", "components"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "components"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "_code"]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "components"]
+- !private ["s28CustomDebugStringConvertibleP", "createUser"]
+- ["s28CustomDebugStringConvertibleP", "database"]
+- !private ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "signIn"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "uid"]
+- !private ["s28CustomDebugStringConvertibleP", "user"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "components"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "child"]
+- !private ["s17CustomReflectableP", "components"]
+- !private ["s17CustomReflectableP", "email"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uid"]
+- !private ["s23CustomStringConvertibleP", "_code"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "components"]
+- !private ["s23CustomStringConvertibleP", "createUser"]
+- ["s23CustomStringConvertibleP", "database"]
+- !private ["s23CustomStringConvertibleP", "debugDescription"]
+- !private ["s23CustomStringConvertibleP", "email"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "signIn"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["s23CustomStringConvertibleP", "user"]
+- ["So11FIRDatabaseC", "database"]
+- ["So11FIRDatabaseC", "reference"]
+- !private ["So16FIRDatabaseQueryC", "child"]
+- !private ["So16FIRDatabaseQueryC", "setValue"]
+- !private ["So20FIRDatabaseReferenceC", "child"]
+- !private ["So20FIRDatabaseReferenceC", "setValue"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "child"]
+- !private ["Se", "components"]
+- !private ["Se", "email"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "uid"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "child"]
+- !private ["SE", "components"]
+- !private ["SE", "email"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "uid"]
+- !private ["SQ", "_code"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "auth"]
+- !private ["SQ", "child"]
+- !private ["SQ", "components"]
+- !private ["SQ", "createUser"]
+- ["SQ", "credentialAlreadyInUse"]
+- ["SQ", "database"]
+- !private ["SQ", "debugDescription"]
+- !private ["SQ", "email"]
+- ["SQ", "emailAlreadyInUse"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "invalidEmail"]
+- ["SQ", "reference"]
+- ["SQ", "sessionExpired"]
+- !private ["SQ", "setValue"]
+- !private ["SQ", "signIn"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "uid"]
+- !private ["SQ", "user"]
+- ["SQ", "weakPassword"]
+- ["SQ", "wrongPassword"]
+- !private ["s5ErrorP", "_code"]
+- !private ["s5ErrorP", "debugDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "child"]
+- !private ["s23ExpressibleByNilLiteralP", "email"]
+- !private ["s23ExpressibleByNilLiteralP", "uid"]
+- !private ["s26ExpressibleByStringLiteralP", "components"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "components"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "_code"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "auth"]
+- !private ["SH", "child"]
+- !private ["SH", "components"]
+- !private ["SH", "createUser"]
+- ["SH", "credentialAlreadyInUse"]
+- ["SH", "database"]
+- !private ["SH", "debugDescription"]
+- !private ["SH", "email"]
+- ["SH", "emailAlreadyInUse"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "invalidEmail"]
+- ["SH", "reference"]
+- ["SH", "sessionExpired"]
+- !private ["SH", "setValue"]
+- !private ["SH", "signIn"]
+- !private ["SH", "subscript"]
+- !private ["SH", "uid"]
+- !private ["SH", "user"]
+- ["SH", "weakPassword"]
+- ["SH", "wrongPassword"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "components"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "components"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "components"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "_code"]
+- !private ["So8NSCodingP", "components"]
+- !private ["So8NSCodingP", "debugDescription"]
+- !private ["So9NSCopyingP", "_code"]
+- !private ["So9NSCopyingP", "components"]
+- !private ["So9NSCopyingP", "debugDescription"]
+- !private ["So7NSErrorC", "_code"]
+- !private ["So7NSErrorC", "debugDescription"]
+- !private ["So21NSItemProviderReadingP", "components"]
+- !private ["So21NSItemProviderWritingP", "components"]
+- !private ["So16NSMutableCopyingP", "components"]
+- !private ["So8NSObjectC", "_code"]
+- !private ["So8NSObjectC", "auth"]
+- !private ["So8NSObjectC", "child"]
+- !private ["So8NSObjectC", "components"]
+- !private ["So8NSObjectC", "createUser"]
+- ["So8NSObjectC", "database"]
+- !private ["So8NSObjectC", "debugDescription"]
+- !private ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "reference"]
+- !private ["So8NSObjectC", "setValue"]
+- !private ["So8NSObjectC", "signIn"]
+- !private ["So8NSObjectC", "uid"]
+- !private ["So8NSObjectC", "user"]
+- !private ["So8NSObjectP", "_code"]
+- !private ["So8NSObjectP", "auth"]
+- !private ["So8NSObjectP", "child"]
+- !private ["So8NSObjectP", "components"]
+- !private ["So8NSObjectP", "createUser"]
+- ["So8NSObjectP", "database"]
+- !private ["So8NSObjectP", "debugDescription"]
+- !private ["So8NSObjectP", "email"]
+- ["So8NSObjectP", "reference"]
+- !private ["So8NSObjectP", "setValue"]
+- !private ["So8NSObjectP", "signIn"]
+- !private ["So8NSObjectP", "uid"]
+- !private ["So8NSObjectP", "user"]
+- !private ["So14NSSecureCodingP", "_code"]
+- !private ["So14NSSecureCodingP", "components"]
+- !private ["So14NSSecureCodingP", "debugDescription"]
+- !private ["So8NSStringC", "components"]
+- !private ["Sq", "child"]
+- !private ["Sq", "email"]
+- !private ["Sq", "uid"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "components"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- ["SY", "credentialAlreadyInUse"]
+- ["SY", "emailAlreadyInUse"]
+- !private ["SY", "init"]
+- ["SY", "invalidEmail"]
+- ["SY", "sessionExpired"]
+- ["SY", "weakPassword"]
+- ["SY", "wrongPassword"]
+- !private ["ST", "components"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SS", "components"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "components"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "components"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "components"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "components"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["So7FIRUserC", "email"]
+- !private ["So7FIRUserC", "uid"]
+- !private ["So11FIRUserInfoP", "email"]
+- !private ["So11FIRUserInfoP", "uid"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "components"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "components"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "components"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "components"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "components"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_code"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "components"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createUser"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "debugDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "email"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "user"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "child"]
+- !private ["s21_ObjectiveCBridgeableP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "email"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "uid"]
+- !private ["s16_SwiftStringViewP", "components"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "So7FIRAuthC"
+- !private "So17FIRAuthDataResultC"
+- "So16FIRAuthErrorCodeV"
+- "8HealthAI12AuthServicesC"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "So11FIRDatabaseC"
+- !private "So16FIRDatabaseQueryC"
+- !private "So20FIRDatabaseReferenceC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So7NSErrorC"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "So7FIRUserC"
+- !private "So11FIRUserInfoP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/TKSubmitTransition.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVRadialGradientLayer.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVIndefiniteAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "672edfad26bde147be8438297e3fb263"

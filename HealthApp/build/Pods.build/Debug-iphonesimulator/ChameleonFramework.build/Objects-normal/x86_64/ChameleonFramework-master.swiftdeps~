@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "7fc7ef85e7de74686410ce556318ea37"
+build_time: [1541008538, 585026000]
+inputs:
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/ChameleonFramework/Pod/Classes/Swift/ChameleonShorthand.swift": !dirty [1541008516, 0]

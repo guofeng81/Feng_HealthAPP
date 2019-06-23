@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "ed1777fbae86125107f2bbaafc1d7a71"
+build_time: [1541020376, 746431000]
+inputs:
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Animations/SlideAnimation.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Supporting Files/CardView.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/WorkoutViewController.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Supporting Files/SidebarView.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Services/DatabaseHelper.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Model/WorkoutDataModel.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/ViewController.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/AppDelegate.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Supporting Files/BioCell.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/StepsViewController.swift": [1541020374, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/BMIViewController.swift": [1541011293, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Model/WeatherDataModel.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/HealthMainViewController.swift": [1541014429, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Supporting Files/ProfileTableViewCell.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Services/AuthServices.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/ProfileViewController.swift": [1540946518, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/HealthAI/Controllers/MainPageController/RegisterViewController.swift": [1540946518, 0]

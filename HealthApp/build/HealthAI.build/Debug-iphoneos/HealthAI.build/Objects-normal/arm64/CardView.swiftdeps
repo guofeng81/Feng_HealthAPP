@@ -1,0 +1,676 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CardView"
+provides-nominal:
+- "8HealthAI8CardViewC"
+provides-member:
+- ["8HealthAI8CardViewC", ""]
+provides-dynamic-lookup:
+- "cornerradius"
+- "layoutSubviews"
+- "shadowColor"
+- "shadowOffSetHeight"
+- "shadowOffSetWidth"
+- "shadowOpacity"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- !private "CGSize"
+- "CardView"
+- !private "Float"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- !private "UIBezierPath"
+- "UIColor"
+- "UIView"
+depends-member:
+- !private ["SB", "init"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "shadowColor"]
+- !private ["So7CALayerC", "shadowOffset"]
+- !private ["So7CALayerC", "shadowOpacity"]
+- !private ["So7CALayerC", "shadowPath"]
+- !private ["So15CALayerDelegateP", "CGSize"]
+- !private ["So15CALayerDelegateP", "Float"]
+- !private ["So15CALayerDelegateP", "UIBezierPath"]
+- ["So15CALayerDelegateP", "UIColor"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "cornerradius"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "shadowColor"]
+- !private ["So15CALayerDelegateP", "shadowOffSetHeight"]
+- !private ["So15CALayerDelegateP", "shadowOffSetWidth"]
+- !private ["So15CALayerDelegateP", "shadowOpacity"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "shadowColor"]
+- !private ["So13CAMediaTimingP", "shadowOffset"]
+- !private ["So13CAMediaTimingP", "shadowOpacity"]
+- !private ["So13CAMediaTimingP", "shadowPath"]
+- !private ["So6CGSizeV", "init"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "Float"]
+- !private ["s7CVarArgP", "UIBezierPath"]
+- ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "cgPath"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "cornerradius"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "shadowColor"]
+- !private ["s7CVarArgP", "shadowOffSetHeight"]
+- !private ["s7CVarArgP", "shadowOffSetWidth"]
+- !private ["s7CVarArgP", "shadowOffset"]
+- !private ["s7CVarArgP", "shadowOpacity"]
+- !private ["s7CVarArgP", "shadowPath"]
+- ["8HealthAI8CardViewC", "CGFloat"]
+- !private ["8HealthAI8CardViewC", "CGSize"]
+- !private ["8HealthAI8CardViewC", "Float"]
+- !private ["8HealthAI8CardViewC", "UIBezierPath"]
+- ["8HealthAI8CardViewC", "UIColor"]
+- !private ["8HealthAI8CardViewC", "bounds"]
+- ["8HealthAI8CardViewC", "cornerradius"]
+- !private ["8HealthAI8CardViewC", "deinit"]
+- ["8HealthAI8CardViewC", "init"]
+- !private ["8HealthAI8CardViewC", "layer"]
+- ["8HealthAI8CardViewC", "layoutSubviews"]
+- ["8HealthAI8CardViewC", "shadowColor"]
+- ["8HealthAI8CardViewC", "shadowOffSetHeight"]
+- ["8HealthAI8CardViewC", "shadowOffSetWidth"]
+- ["8HealthAI8CardViewC", "shadowOpacity"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "Float"]
+- !private ["s28CustomDebugStringConvertibleP", "UIBezierPath"]
+- ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cgPath"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerradius"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffSetHeight"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffSetWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOpacity"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowPath"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "Float"]
+- !private ["s23CustomStringConvertibleP", "UIBezierPath"]
+- ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "cgPath"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "cornerradius"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "shadowColor"]
+- !private ["s23CustomStringConvertibleP", "shadowOffSetHeight"]
+- !private ["s23CustomStringConvertibleP", "shadowOffSetWidth"]
+- !private ["s23CustomStringConvertibleP", "shadowOffset"]
+- !private ["s23CustomStringConvertibleP", "shadowOpacity"]
+- !private ["s23CustomStringConvertibleP", "shadowPath"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "CGSize"]
+- !private ["SQ", "Float"]
+- !private ["SQ", "UIBezierPath"]
+- ["SQ", "UIColor"]
+- ["SQ", ""]
+- ["SQ", "black"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "cgColor"]
+- !private ["SQ", "cgPath"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "cornerradius"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "shadowColor"]
+- !private ["SQ", "shadowOffSetHeight"]
+- !private ["SQ", "shadowOffSetWidth"]
+- !private ["SQ", "shadowOffset"]
+- !private ["SQ", "shadowOpacity"]
+- !private ["SQ", "shadowPath"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["Sf", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "CGSize"]
+- !private ["SH", "Float"]
+- !private ["SH", "UIBezierPath"]
+- ["SH", "UIColor"]
+- ["SH", ""]
+- ["SH", "black"]
+- !private ["SH", "bounds"]
+- !private ["SH", "cgColor"]
+- !private ["SH", "cgPath"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "cornerradius"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["SH", "shadowColor"]
+- !private ["SH", "shadowOffSetHeight"]
+- !private ["SH", "shadowOffSetWidth"]
+- !private ["SH", "shadowOffset"]
+- !private ["SH", "shadowOpacity"]
+- !private ["SH", "shadowPath"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["So8NSCodingP", "CGSize"]
+- !private ["So8NSCodingP", "Float"]
+- !private ["So8NSCodingP", "UIBezierPath"]
+- ["So8NSCodingP", "UIColor"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "cgPath"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "cornerradius"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "shadowColor"]
+- !private ["So8NSCodingP", "shadowOffSetHeight"]
+- !private ["So8NSCodingP", "shadowOffSetWidth"]
+- !private ["So8NSCodingP", "shadowOffset"]
+- !private ["So8NSCodingP", "shadowOpacity"]
+- !private ["So8NSCodingP", "shadowPath"]
+- ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So9NSCopyingP", "cgPath"]
+- !private ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- ["So8NSObjectC", "CGFloat"]
+- !private ["So8NSObjectC", "CGSize"]
+- !private ["So8NSObjectC", "Float"]
+- !private ["So8NSObjectC", "UIBezierPath"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "cgPath"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "cornerradius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "layoutSubviews"]
+- ["So8NSObjectC", "shadowColor"]
+- ["So8NSObjectC", "shadowOffSetHeight"]
+- ["So8NSObjectC", "shadowOffSetWidth"]
+- !private ["So8NSObjectC", "shadowOffset"]
+- ["So8NSObjectC", "shadowOpacity"]
+- !private ["So8NSObjectC", "shadowPath"]
+- !private ["So8NSObjectP", "CGSize"]
+- !private ["So8NSObjectP", "Float"]
+- !private ["So8NSObjectP", "UIBezierPath"]
+- ["So8NSObjectP", "UIColor"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "cgPath"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "cornerradius"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "shadowColor"]
+- !private ["So8NSObjectP", "shadowOffSetHeight"]
+- !private ["So8NSObjectP", "shadowOffSetWidth"]
+- !private ["So8NSObjectP", "shadowOffset"]
+- !private ["So8NSObjectP", "shadowOpacity"]
+- !private ["So8NSObjectP", "shadowPath"]
+- ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "cgPath"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "shadowColor"]
+- !private ["So14NSSecureCodingP", "shadowOffset"]
+- !private ["So14NSSecureCodingP", "shadowOpacity"]
+- !private ["So14NSSecureCodingP", "shadowPath"]
+- !private ["Sj", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CGSize"]
+- !private ["So29UIAccessibilityIdentificationP", "Float"]
+- !private ["So29UIAccessibilityIdentificationP", "UIBezierPath"]
+- ["So29UIAccessibilityIdentificationP", "UIColor"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "cornerradius"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "shadowColor"]
+- !private ["So29UIAccessibilityIdentificationP", "shadowOffSetHeight"]
+- !private ["So29UIAccessibilityIdentificationP", "shadowOffSetWidth"]
+- !private ["So29UIAccessibilityIdentificationP", "shadowOpacity"]
+- !private ["So12UIAppearanceP", "CGSize"]
+- !private ["So12UIAppearanceP", "Float"]
+- !private ["So12UIAppearanceP", "UIBezierPath"]
+- ["So12UIAppearanceP", "UIColor"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "cornerradius"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "shadowColor"]
+- !private ["So12UIAppearanceP", "shadowOffSetHeight"]
+- !private ["So12UIAppearanceP", "shadowOffSetWidth"]
+- !private ["So12UIAppearanceP", "shadowOpacity"]
+- !private ["So21UIAppearanceContainerP", "CGSize"]
+- !private ["So21UIAppearanceContainerP", "Float"]
+- !private ["So21UIAppearanceContainerP", "UIBezierPath"]
+- ["So21UIAppearanceContainerP", "UIColor"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "cornerradius"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "shadowColor"]
+- !private ["So21UIAppearanceContainerP", "shadowOffSetHeight"]
+- !private ["So21UIAppearanceContainerP", "shadowOffSetWidth"]
+- !private ["So21UIAppearanceContainerP", "shadowOpacity"]
+- !private ["So12UIBezierPathC", "cgPath"]
+- !private ["So12UIBezierPathC", "init"]
+- ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "cgColor"]
+- !private ["So17UICoordinateSpaceP", "CGSize"]
+- !private ["So17UICoordinateSpaceP", "Float"]
+- !private ["So17UICoordinateSpaceP", "UIBezierPath"]
+- ["So17UICoordinateSpaceP", "UIColor"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "cornerradius"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "shadowColor"]
+- !private ["So17UICoordinateSpaceP", "shadowOffSetHeight"]
+- !private ["So17UICoordinateSpaceP", "shadowOffSetWidth"]
+- !private ["So17UICoordinateSpaceP", "shadowOpacity"]
+- !private ["So13UIDynamicItemP", "CGSize"]
+- !private ["So13UIDynamicItemP", "Float"]
+- !private ["So13UIDynamicItemP", "UIBezierPath"]
+- ["So13UIDynamicItemP", "UIColor"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "cornerradius"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "shadowColor"]
+- !private ["So13UIDynamicItemP", "shadowOffSetHeight"]
+- !private ["So13UIDynamicItemP", "shadowOffSetWidth"]
+- !private ["So13UIDynamicItemP", "shadowOpacity"]
+- !private ["So18UIFocusEnvironmentP", "CGSize"]
+- !private ["So18UIFocusEnvironmentP", "Float"]
+- !private ["So18UIFocusEnvironmentP", "UIBezierPath"]
+- ["So18UIFocusEnvironmentP", "UIColor"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "cornerradius"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "shadowColor"]
+- !private ["So18UIFocusEnvironmentP", "shadowOffSetHeight"]
+- !private ["So18UIFocusEnvironmentP", "shadowOffSetWidth"]
+- !private ["So18UIFocusEnvironmentP", "shadowOpacity"]
+- !private ["So11UIFocusItemP", "CGSize"]
+- !private ["So11UIFocusItemP", "Float"]
+- !private ["So11UIFocusItemP", "UIBezierPath"]
+- ["So11UIFocusItemP", "UIColor"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "cornerradius"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "shadowColor"]
+- !private ["So11UIFocusItemP", "shadowOffSetHeight"]
+- !private ["So11UIFocusItemP", "shadowOffSetWidth"]
+- !private ["So11UIFocusItemP", "shadowOpacity"]
+- !private ["So20UIFocusItemContainerP", "CGSize"]
+- !private ["So20UIFocusItemContainerP", "Float"]
+- !private ["So20UIFocusItemContainerP", "UIBezierPath"]
+- ["So20UIFocusItemContainerP", "UIColor"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "cornerradius"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "shadowColor"]
+- !private ["So20UIFocusItemContainerP", "shadowOffSetHeight"]
+- !private ["So20UIFocusItemContainerP", "shadowOffSetWidth"]
+- !private ["So20UIFocusItemContainerP", "shadowOpacity"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "Float"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIBezierPath"]
+- ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "cornerradius"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "shadowColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "shadowOffSetHeight"]
+- !private ["So30UIPasteConfigurationSupportingP", "shadowOffSetWidth"]
+- !private ["So30UIPasteConfigurationSupportingP", "shadowOpacity"]
+- ["So11UIResponderC", "CGFloat"]
+- !private ["So11UIResponderC", "CGSize"]
+- !private ["So11UIResponderC", "Float"]
+- !private ["So11UIResponderC", "UIBezierPath"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "bounds"]
+- ["So11UIResponderC", "cornerradius"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "layoutSubviews"]
+- ["So11UIResponderC", "shadowColor"]
+- ["So11UIResponderC", "shadowOffSetHeight"]
+- ["So11UIResponderC", "shadowOffSetWidth"]
+- ["So11UIResponderC", "shadowOpacity"]
+- !private ["So30UIResponderStandardEditActionsP", "CGSize"]
+- !private ["So30UIResponderStandardEditActionsP", "Float"]
+- !private ["So30UIResponderStandardEditActionsP", "UIBezierPath"]
+- ["So30UIResponderStandardEditActionsP", "UIColor"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "cornerradius"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "shadowColor"]
+- !private ["So30UIResponderStandardEditActionsP", "shadowOffSetHeight"]
+- !private ["So30UIResponderStandardEditActionsP", "shadowOffSetWidth"]
+- !private ["So30UIResponderStandardEditActionsP", "shadowOpacity"]
+- !private ["So18UITraitEnvironmentP", "CGSize"]
+- !private ["So18UITraitEnvironmentP", "Float"]
+- !private ["So18UITraitEnvironmentP", "UIBezierPath"]
+- ["So18UITraitEnvironmentP", "UIColor"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "cornerradius"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "shadowColor"]
+- !private ["So18UITraitEnvironmentP", "shadowOffSetHeight"]
+- !private ["So18UITraitEnvironmentP", "shadowOffSetWidth"]
+- !private ["So18UITraitEnvironmentP", "shadowOpacity"]
+- !private ["So23UIUserActivityRestoringP", "CGSize"]
+- !private ["So23UIUserActivityRestoringP", "Float"]
+- !private ["So23UIUserActivityRestoringP", "UIBezierPath"]
+- ["So23UIUserActivityRestoringP", "UIColor"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "cornerradius"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "shadowColor"]
+- !private ["So23UIUserActivityRestoringP", "shadowOffSetHeight"]
+- !private ["So23UIUserActivityRestoringP", "shadowOffSetWidth"]
+- !private ["So23UIUserActivityRestoringP", "shadowOpacity"]
+- ["So6UIViewC", "CGFloat"]
+- !private ["So6UIViewC", "CGSize"]
+- !private ["So6UIViewC", "Float"]
+- !private ["So6UIViewC", "UIBezierPath"]
+- ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "bounds"]
+- ["So6UIViewC", "cornerradius"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "layoutSubviews"]
+- ["So6UIViewC", "shadowColor"]
+- ["So6UIViewC", "shadowOffSetHeight"]
+- ["So6UIViewC", "shadowOffSetWidth"]
+- ["So6UIViewC", "shadowOpacity"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGSize"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "Float"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIBezierPath"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "UIColor"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cornerradius"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shadowColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shadowOffSetHeight"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shadowOffSetWidth"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shadowOpacity"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Float"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIBezierPath"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerradius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffSetHeight"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffSetWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOpacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowPath"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SB"
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- "8HealthAI8CardViewC"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "Sf"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "Sj"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So12UIBezierPathC"
+- "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/TKSubmitTransition.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVRadialGradientLayer.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVIndefiniteAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "17df538506c9036191a96379286059e1"

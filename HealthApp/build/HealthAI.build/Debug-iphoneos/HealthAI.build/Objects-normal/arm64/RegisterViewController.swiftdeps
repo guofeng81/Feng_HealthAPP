@@ -1,0 +1,1029 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RegisterViewController"
+provides-nominal:
+- "8HealthAI22RegisterViewControllerC"
+provides-member:
+- ["8HealthAI22RegisterViewControllerC", ""]
+provides-dynamic-lookup:
+- "confirmPasswordTextField"
+- "emailTextField"
+- "passwordTextField"
+- "registerBtn"
+- "registeredPressed"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- !private "AuthServices"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "RegisterViewController"
+- !private "SVProgressHUD"
+- "String"
+- !private "StringLiteralType"
+- "TKTransitionSubmitButton"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UIButton"
+- "UITextField"
+- "UIViewController"
+depends-member:
+- !private ["8HealthAI12AuthServicesC", "instance"]
+- !private ["8HealthAI12AuthServicesC", "signup"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So19CAAnimationDelegateP", "shake"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "clipsToBounds"]
+- !private ["So15CALayerDelegateP", "dismiss"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "setPadding"]
+- !private ["So15CALayerDelegateP", "shake"]
+- !private ["So15CALayerDelegateP", "show"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "underlined"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["s7CVarArgP", "AuthServices"]
+- !private ["s7CVarArgP", "SVProgressHUD"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "clipsToBounds"]
+- !private ["s7CVarArgP", "confirmPasswordTextField"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "createAlert"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "emailTextField"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "passwordTextField"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "registerBtn"]
+- !private ["s7CVarArgP", "setPadding"]
+- !private ["s7CVarArgP", "setupRegisterView"]
+- !private ["s7CVarArgP", "shake"]
+- !private ["s7CVarArgP", "show"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "underlined"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "count"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "AuthServices"]
+- !private ["s28CustomDebugStringConvertibleP", "SVProgressHUD"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "clipsToBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "confirmPasswordTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "createAlert"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "emailTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "passwordTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "registerBtn"]
+- !private ["s28CustomDebugStringConvertibleP", "setPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "setupRegisterView"]
+- !private ["s28CustomDebugStringConvertibleP", "shake"]
+- !private ["s28CustomDebugStringConvertibleP", "show"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "underlined"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "count"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "clipsToBounds"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "layer"]
+- !private ["s17CustomReflectableP", "setPadding"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "underlined"]
+- !private ["s23CustomStringConvertibleP", "AuthServices"]
+- !private ["s23CustomStringConvertibleP", "SVProgressHUD"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "clipsToBounds"]
+- !private ["s23CustomStringConvertibleP", "confirmPasswordTextField"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "createAlert"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "emailTextField"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "passwordTextField"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "registerBtn"]
+- !private ["s23CustomStringConvertibleP", "setPadding"]
+- !private ["s23CustomStringConvertibleP", "setupRegisterView"]
+- !private ["s23CustomStringConvertibleP", "shake"]
+- !private ["s23CustomStringConvertibleP", "show"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "underlined"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "clipsToBounds"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "layer"]
+- !private ["Se", "setPadding"]
+- !private ["Se", "text"]
+- !private ["Se", "underlined"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "clipsToBounds"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "layer"]
+- !private ["SE", "setPadding"]
+- !private ["SE", "text"]
+- !private ["SE", "underlined"]
+- !private ["SQ", "AuthServices"]
+- !private ["SQ", "SVProgressHUD"]
+- !private ["SQ", "UIAlertAction"]
+- !private ["SQ", "UIAlertController"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "clipsToBounds"]
+- !private ["SQ", "confirmPasswordTextField"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "count"]
+- !private ["SQ", "createAlert"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "emailTextField"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "passwordTextField"]
+- !private ["SQ", "performSegue"]
+- !private ["SQ", "present"]
+- !private ["SQ", "registerBtn"]
+- !private ["SQ", "setPadding"]
+- !private ["SQ", "setupRegisterView"]
+- !private ["SQ", "shake"]
+- !private ["SQ", "show"]
+- !private ["SQ", "text"]
+- !private ["SQ", "underlined"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "clipsToBounds"]
+- !private ["s23ExpressibleByNilLiteralP", "layer"]
+- !private ["s23ExpressibleByNilLiteralP", "setPadding"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s23ExpressibleByNilLiteralP", "underlined"]
+- !private ["s26ExpressibleByStringLiteralP", "count"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "AuthServices"]
+- !private ["SH", "SVProgressHUD"]
+- !private ["SH", "UIAlertAction"]
+- !private ["SH", "UIAlertController"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addAction"]
+- !private ["SH", "alert"]
+- !private ["SH", "cancel"]
+- !private ["SH", "clipsToBounds"]
+- !private ["SH", "confirmPasswordTextField"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "count"]
+- !private ["SH", "createAlert"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "emailTextField"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["SH", "passwordTextField"]
+- !private ["SH", "performSegue"]
+- !private ["SH", "present"]
+- !private ["SH", "registerBtn"]
+- !private ["SH", "setPadding"]
+- !private ["SH", "setupRegisterView"]
+- !private ["SH", "shake"]
+- !private ["SH", "show"]
+- !private ["SH", "text"]
+- !private ["SH", "underlined"]
+- !private ["SH", "viewDidLoad"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "count"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "count"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "count"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "AuthServices"]
+- !private ["So8NSCodingP", "SVProgressHUD"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "clipsToBounds"]
+- !private ["So8NSCodingP", "confirmPasswordTextField"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "count"]
+- !private ["So8NSCodingP", "createAlert"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "emailTextField"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "passwordTextField"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "registerBtn"]
+- !private ["So8NSCodingP", "setPadding"]
+- !private ["So8NSCodingP", "setupRegisterView"]
+- !private ["So8NSCodingP", "shake"]
+- !private ["So8NSCodingP", "show"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "underlined"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "count"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "AuthServices"]
+- !private ["So26NSExtensionRequestHandlingP", "SVProgressHUD"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "confirmPasswordTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "createAlert"]
+- !private ["So26NSExtensionRequestHandlingP", "emailTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "passwordTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "registerBtn"]
+- !private ["So26NSExtensionRequestHandlingP", "setupRegisterView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "count"]
+- !private ["So21NSItemProviderWritingP", "count"]
+- !private ["So16NSMutableCopyingP", "count"]
+- !private ["So8NSObjectC", "AuthServices"]
+- !private ["So8NSObjectC", "SVProgressHUD"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TKTransitionSubmitButton"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UITextField"]
+- !private ["So8NSObjectC", "addAction"]
+- !private ["So8NSObjectC", "clipsToBounds"]
+- ["So8NSObjectC", "confirmPasswordTextField"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "count"]
+- ["So8NSObjectC", "createAlert"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "emailTextField"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "passwordTextField"]
+- !private ["So8NSObjectC", "performSegue"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "registerBtn"]
+- ["So8NSObjectC", "registeredPressed"]
+- !private ["So8NSObjectC", "setPadding"]
+- ["So8NSObjectC", "setupRegisterView"]
+- !private ["So8NSObjectC", "shake"]
+- !private ["So8NSObjectC", "show"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "underlined"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "AuthServices"]
+- !private ["So8NSObjectP", "SVProgressHUD"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "clipsToBounds"]
+- !private ["So8NSObjectP", "confirmPasswordTextField"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "count"]
+- !private ["So8NSObjectP", "createAlert"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "emailTextField"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "passwordTextField"]
+- !private ["So8NSObjectP", "performSegue"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "registerBtn"]
+- !private ["So8NSObjectP", "setPadding"]
+- !private ["So8NSObjectP", "setupRegisterView"]
+- !private ["So8NSObjectP", "shake"]
+- !private ["So8NSObjectP", "show"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "underlined"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "count"]
+- !private ["So8NSStringC", "count"]
+- !private ["Sq", "clipsToBounds"]
+- !private ["Sq", "layer"]
+- !private ["Sq", "setPadding"]
+- !private ["Sq", "text"]
+- !private ["Sq", "underlined"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "alert"]
+- !private ["SY", "cancel"]
+- !private ["8HealthAI22RegisterViewControllerC", "AuthServices"]
+- !private ["8HealthAI22RegisterViewControllerC", "SVProgressHUD"]
+- ["8HealthAI22RegisterViewControllerC", "String"]
+- ["8HealthAI22RegisterViewControllerC", "TKTransitionSubmitButton"]
+- !private ["8HealthAI22RegisterViewControllerC", "UIAlertAction"]
+- !private ["8HealthAI22RegisterViewControllerC", "UIAlertController"]
+- ["8HealthAI22RegisterViewControllerC", "UIButton"]
+- ["8HealthAI22RegisterViewControllerC", "UITextField"]
+- ["8HealthAI22RegisterViewControllerC", "confirmPasswordTextField"]
+- ["8HealthAI22RegisterViewControllerC", "createAlert"]
+- ["8HealthAI22RegisterViewControllerC", "emailTextField"]
+- ["8HealthAI22RegisterViewControllerC", "init"]
+- ["8HealthAI22RegisterViewControllerC", "passwordTextField"]
+- !private ["8HealthAI22RegisterViewControllerC", "performSegue"]
+- !private ["8HealthAI22RegisterViewControllerC", "present"]
+- ["8HealthAI22RegisterViewControllerC", "registerBtn"]
+- ["8HealthAI22RegisterViewControllerC", "registeredPressed"]
+- ["8HealthAI22RegisterViewControllerC", "setupRegisterView"]
+- ["8HealthAI22RegisterViewControllerC", "viewDidLoad"]
+- !private ["So13SVProgressHUDC", "dismiss"]
+- !private ["So13SVProgressHUDC", "show"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "count"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "count"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["So22UIAlertControllerStyleV", "alert"]
+- !private ["So18UIAlertActionStyleV", "cancel"]
+- !private ["18TKSubmitTransition24TKTransitionSubmitButtonC", "shake"]
+- !private ["s16TextOutputStreamP", "count"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "count"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "clipsToBounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "shake"]
+- !private ["So29UIAccessibilityIdentificationP", "clipsToBounds"]
+- !private ["So29UIAccessibilityIdentificationP", "dismiss"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "setPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "shake"]
+- !private ["So29UIAccessibilityIdentificationP", "show"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "underlined"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["So12UIAppearanceP", "clipsToBounds"]
+- !private ["So12UIAppearanceP", "dismiss"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "setPadding"]
+- !private ["So12UIAppearanceP", "shake"]
+- !private ["So12UIAppearanceP", "show"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "underlined"]
+- !private ["So21UIAppearanceContainerP", "AuthServices"]
+- !private ["So21UIAppearanceContainerP", "SVProgressHUD"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "clipsToBounds"]
+- !private ["So21UIAppearanceContainerP", "confirmPasswordTextField"]
+- !private ["So21UIAppearanceContainerP", "createAlert"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "emailTextField"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "passwordTextField"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "registerBtn"]
+- !private ["So21UIAppearanceContainerP", "setPadding"]
+- !private ["So21UIAppearanceContainerP", "setupRegisterView"]
+- !private ["So21UIAppearanceContainerP", "shake"]
+- !private ["So21UIAppearanceContainerP", "show"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "underlined"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "clipsToBounds"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So8UIButtonC", "shake"]
+- !private ["So18UIContentContainerP", "AuthServices"]
+- !private ["So18UIContentContainerP", "SVProgressHUD"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "confirmPasswordTextField"]
+- !private ["So18UIContentContainerP", "createAlert"]
+- !private ["So18UIContentContainerP", "emailTextField"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "passwordTextField"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "registerBtn"]
+- !private ["So18UIContentContainerP", "setupRegisterView"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "setPadding"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "underlined"]
+- !private ["So9UIControlC", "clipsToBounds"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So9UIControlC", "setPadding"]
+- !private ["So9UIControlC", "shake"]
+- !private ["So9UIControlC", "text"]
+- !private ["So9UIControlC", "underlined"]
+- !private ["So17UICoordinateSpaceP", "clipsToBounds"]
+- !private ["So17UICoordinateSpaceP", "dismiss"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "setPadding"]
+- !private ["So17UICoordinateSpaceP", "shake"]
+- !private ["So17UICoordinateSpaceP", "show"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "underlined"]
+- !private ["So13UIDynamicItemP", "clipsToBounds"]
+- !private ["So13UIDynamicItemP", "dismiss"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "setPadding"]
+- !private ["So13UIDynamicItemP", "shake"]
+- !private ["So13UIDynamicItemP", "show"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "underlined"]
+- !private ["So18UIFocusEnvironmentP", "AuthServices"]
+- !private ["So18UIFocusEnvironmentP", "SVProgressHUD"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "clipsToBounds"]
+- !private ["So18UIFocusEnvironmentP", "confirmPasswordTextField"]
+- !private ["So18UIFocusEnvironmentP", "createAlert"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "emailTextField"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "passwordTextField"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "registerBtn"]
+- !private ["So18UIFocusEnvironmentP", "setPadding"]
+- !private ["So18UIFocusEnvironmentP", "setupRegisterView"]
+- !private ["So18UIFocusEnvironmentP", "shake"]
+- !private ["So18UIFocusEnvironmentP", "show"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "underlined"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "clipsToBounds"]
+- !private ["So11UIFocusItemP", "dismiss"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "setPadding"]
+- !private ["So11UIFocusItemP", "shake"]
+- !private ["So11UIFocusItemP", "show"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "underlined"]
+- !private ["So20UIFocusItemContainerP", "clipsToBounds"]
+- !private ["So20UIFocusItemContainerP", "dismiss"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "setPadding"]
+- !private ["So20UIFocusItemContainerP", "shake"]
+- !private ["So20UIFocusItemContainerP", "show"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "underlined"]
+- !private ["So10UIKeyInputP", "setPadding"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So10UIKeyInputP", "underlined"]
+- !private ["So30UIPasteConfigurationSupportingP", "AuthServices"]
+- !private ["So30UIPasteConfigurationSupportingP", "SVProgressHUD"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "clipsToBounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "confirmPasswordTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "createAlert"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "emailTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "passwordTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "registerBtn"]
+- !private ["So30UIPasteConfigurationSupportingP", "setPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "setupRegisterView"]
+- !private ["So30UIPasteConfigurationSupportingP", "shake"]
+- !private ["So30UIPasteConfigurationSupportingP", "show"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "underlined"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "AuthServices"]
+- !private ["So11UIResponderC", "SVProgressHUD"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "TKTransitionSubmitButton"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UITextField"]
+- !private ["So11UIResponderC", "addAction"]
+- !private ["So11UIResponderC", "clipsToBounds"]
+- ["So11UIResponderC", "confirmPasswordTextField"]
+- ["So11UIResponderC", "createAlert"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "emailTextField"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "passwordTextField"]
+- !private ["So11UIResponderC", "performSegue"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "registerBtn"]
+- ["So11UIResponderC", "registeredPressed"]
+- !private ["So11UIResponderC", "setPadding"]
+- ["So11UIResponderC", "setupRegisterView"]
+- !private ["So11UIResponderC", "shake"]
+- !private ["So11UIResponderC", "show"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "underlined"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "AuthServices"]
+- !private ["So30UIResponderStandardEditActionsP", "SVProgressHUD"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "clipsToBounds"]
+- !private ["So30UIResponderStandardEditActionsP", "confirmPasswordTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "createAlert"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "emailTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "passwordTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "registerBtn"]
+- !private ["So30UIResponderStandardEditActionsP", "setPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "setupRegisterView"]
+- !private ["So30UIResponderStandardEditActionsP", "shake"]
+- !private ["So30UIResponderStandardEditActionsP", "show"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "underlined"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "clipsToBounds"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "shake"]
+- !private ["So16UIStateRestoringP", "AuthServices"]
+- !private ["So16UIStateRestoringP", "SVProgressHUD"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "confirmPasswordTextField"]
+- !private ["So16UIStateRestoringP", "createAlert"]
+- !private ["So16UIStateRestoringP", "emailTextField"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "passwordTextField"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "registerBtn"]
+- !private ["So16UIStateRestoringP", "setupRegisterView"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "setPadding"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDraggableP", "underlined"]
+- !private ["So15UITextDroppableP", "setPadding"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So15UITextDroppableP", "underlined"]
+- !private ["So11UITextFieldC", "setPadding"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextFieldC", "underlined"]
+- !private ["So11UITextInputP", "setPadding"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So11UITextInputP", "underlined"]
+- !private ["So17UITextInputTraitsP", "setPadding"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So17UITextInputTraitsP", "underlined"]
+- !private ["So34UITextPasteConfigurationSupportingP", "setPadding"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "underlined"]
+- !private ["So18UITraitEnvironmentP", "AuthServices"]
+- !private ["So18UITraitEnvironmentP", "SVProgressHUD"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "clipsToBounds"]
+- !private ["So18UITraitEnvironmentP", "confirmPasswordTextField"]
+- !private ["So18UITraitEnvironmentP", "createAlert"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "emailTextField"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "passwordTextField"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "registerBtn"]
+- !private ["So18UITraitEnvironmentP", "setPadding"]
+- !private ["So18UITraitEnvironmentP", "setupRegisterView"]
+- !private ["So18UITraitEnvironmentP", "shake"]
+- !private ["So18UITraitEnvironmentP", "show"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "underlined"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "AuthServices"]
+- !private ["So23UIUserActivityRestoringP", "SVProgressHUD"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertAction"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "clipsToBounds"]
+- !private ["So23UIUserActivityRestoringP", "confirmPasswordTextField"]
+- !private ["So23UIUserActivityRestoringP", "createAlert"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "emailTextField"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "passwordTextField"]
+- !private ["So23UIUserActivityRestoringP", "performSegue"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "registerBtn"]
+- !private ["So23UIUserActivityRestoringP", "setPadding"]
+- !private ["So23UIUserActivityRestoringP", "setupRegisterView"]
+- !private ["So23UIUserActivityRestoringP", "shake"]
+- !private ["So23UIUserActivityRestoringP", "show"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "underlined"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "clipsToBounds"]
+- !private ["So6UIViewC", "dismiss"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "setPadding"]
+- !private ["So6UIViewC", "shake"]
+- !private ["So6UIViewC", "show"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "underlined"]
+- !private ["So16UIViewControllerC", "AuthServices"]
+- !private ["So16UIViewControllerC", "SVProgressHUD"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "TKTransitionSubmitButton"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "confirmPasswordTextField"]
+- ["So16UIViewControllerC", "createAlert"]
+- ["So16UIViewControllerC", "emailTextField"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "passwordTextField"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "registerBtn"]
+- ["So16UIViewControllerC", "registeredPressed"]
+- ["So16UIViewControllerC", "setupRegisterView"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "shake"]
+- !private ["9Alamofire14URLConvertibleP", "count"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "clipsToBounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dismiss"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shake"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "show"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "underlined"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "count"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "count"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AuthServices"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SVProgressHUD"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clipsToBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "confirmPasswordTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createAlert"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emailTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "passwordTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "registerBtn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupRegisterView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shake"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "show"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "underlined"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "clipsToBounds"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "layer"]
+- !private ["s21_ObjectiveCBridgeableP", "setPadding"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "underlined"]
+- !private ["s16_SwiftStringViewP", "count"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "8HealthAI12AuthServicesC"
+- !private "SK"
+- !private "Sb"
+- !private "So19CAAnimationDelegateP"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- "8HealthAI22RegisterViewControllerC"
+- !private "So13SVProgressHUDC"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- !private "18TKSubmitTransition24TKTransitionSubmitButtonC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/TKSubmitTransition.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVRadialGradientLayer.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVIndefiniteAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseStorage/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphoneos/TKSubmitTransition/TKSubmitTransition.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ebe60b32b54829bd01599ca8fa929b48"

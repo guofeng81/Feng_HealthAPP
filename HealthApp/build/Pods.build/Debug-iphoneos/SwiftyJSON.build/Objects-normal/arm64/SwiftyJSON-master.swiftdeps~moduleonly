@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "0e9cd7e20b98e816bea85a6a813f4ddf"
+build_time: [1541021961, 332789000]
+inputs:
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1540946518, 0]

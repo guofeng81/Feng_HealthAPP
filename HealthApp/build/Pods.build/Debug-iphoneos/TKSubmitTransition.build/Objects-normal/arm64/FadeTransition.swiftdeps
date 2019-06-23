@@ -1,0 +1,298 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TKFadeInAnimator"
+provides-nominal:
+- "18TKSubmitTransition16TKFadeInAnimatorC"
+provides-member:
+- ["18TKSubmitTransition16TKFadeInAnimatorC", ""]
+provides-dynamic-lookup:
+- "animateTransition"
+- "transitionDuration"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "CGFloat"
+- "FloatLiteralType"
+- "NSObject"
+- "TKFadeInAnimator"
+- "TimeInterval"
+- !private "UITransitionContextViewKey"
+- !private "UIView"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerContextTransitioning"
+- !private "Void"
+depends-member:
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "alpha"]
+- !private ["So15CALayerDelegateP", "animate"]
+- !private ["s7CVarArgP", "UITransitionContextViewKey"]
+- !private ["s7CVarArgP", "UIView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "alpha"]
+- !private ["s7CVarArgP", "animate"]
+- ["s7CVarArgP", "animateTransition"]
+- ["s7CVarArgP", "animationEnded"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "interruptibleAnimator"]
+- ["s7CVarArgP", "interruptibleAnimatorForTransition"]
+- !private ["s7CVarArgP", "startingAlpha"]
+- ["s7CVarArgP", "transitionDuration"]
+- !private ["s28CustomDebugStringConvertibleP", "UITransitionContextViewKey"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "alpha"]
+- !private ["s28CustomDebugStringConvertibleP", "animate"]
+- ["s28CustomDebugStringConvertibleP", "animateTransition"]
+- ["s28CustomDebugStringConvertibleP", "animationEnded"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "interruptibleAnimator"]
+- ["s28CustomDebugStringConvertibleP", "interruptibleAnimatorForTransition"]
+- !private ["s28CustomDebugStringConvertibleP", "startingAlpha"]
+- ["s28CustomDebugStringConvertibleP", "transitionDuration"]
+- !private ["s23CustomStringConvertibleP", "UITransitionContextViewKey"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "alpha"]
+- !private ["s23CustomStringConvertibleP", "animate"]
+- ["s23CustomStringConvertibleP", "animateTransition"]
+- ["s23CustomStringConvertibleP", "animationEnded"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "interruptibleAnimator"]
+- ["s23CustomStringConvertibleP", "interruptibleAnimatorForTransition"]
+- !private ["s23CustomStringConvertibleP", "startingAlpha"]
+- ["s23CustomStringConvertibleP", "transitionDuration"]
+- !private ["SQ", "UITransitionContextViewKey"]
+- !private ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "alpha"]
+- !private ["SQ", "animate"]
+- ["SQ", "animateTransition"]
+- ["SQ", "animationEnded"]
+- !private ["SQ", "from"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "interruptibleAnimator"]
+- ["SQ", "interruptibleAnimatorForTransition"]
+- !private ["SQ", "startingAlpha"]
+- !private ["SQ", "to"]
+- ["SQ", "transitionDuration"]
+- !private ["SH", "UITransitionContextViewKey"]
+- !private ["SH", "UIView"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "alpha"]
+- !private ["SH", "animate"]
+- ["SH", "animateTransition"]
+- ["SH", "animationEnded"]
+- !private ["SH", "from"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "interruptibleAnimator"]
+- ["SH", "interruptibleAnimatorForTransition"]
+- !private ["SH", "startingAlpha"]
+- !private ["SH", "to"]
+- ["SH", "transitionDuration"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "alpha"]
+- !private ["So8NSCodingP", "animate"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "TimeInterval"]
+- !private ["So8NSObjectC", "UITransitionContextViewKey"]
+- !private ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "UIViewControllerContextTransitioning"]
+- !private ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "alpha"]
+- !private ["So8NSObjectC", "animate"]
+- ["So8NSObjectC", "animateTransition"]
+- ["So8NSObjectC", "animationEnded"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interruptibleAnimator"]
+- ["So8NSObjectC", "interruptibleAnimatorForTransition"]
+- ["So8NSObjectC", "startingAlpha"]
+- ["So8NSObjectC", "transitionDuration"]
+- !private ["So8NSObjectP", "UITransitionContextViewKey"]
+- !private ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "alpha"]
+- !private ["So8NSObjectP", "animate"]
+- ["So8NSObjectP", "animateTransition"]
+- ["So8NSObjectP", "animationEnded"]
+- !private ["So8NSObjectP", "completeTransition"]
+- !private ["So8NSObjectP", "containerView"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "interruptibleAnimator"]
+- ["So8NSObjectP", "interruptibleAnimatorForTransition"]
+- !private ["So8NSObjectP", "startingAlpha"]
+- ["So8NSObjectP", "transitionDuration"]
+- !private ["So8NSObjectP", "view"]
+- !private ["SY", "from"]
+- !private ["SY", "to"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "CGFloat"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "TimeInterval"]
+- !private ["18TKSubmitTransition16TKFadeInAnimatorC", "UITransitionContextViewKey"]
+- !private ["18TKSubmitTransition16TKFadeInAnimatorC", "UIView"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "UIViewControllerContextTransitioning"]
+- !private ["18TKSubmitTransition16TKFadeInAnimatorC", "Void"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "animateTransition"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "animationEnded"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "deinit"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "init"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "interruptibleAnimator"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "interruptibleAnimatorForTransition"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "startingAlpha"]
+- ["18TKSubmitTransition16TKFadeInAnimatorC", "transitionDuration"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "alpha"]
+- !private ["So29UIAccessibilityIdentificationP", "animate"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "alpha"]
+- !private ["So12UIAppearanceP", "animate"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "alpha"]
+- !private ["So21UIAppearanceContainerP", "animate"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "alpha"]
+- !private ["So17UICoordinateSpaceP", "animate"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "alpha"]
+- !private ["So13UIDynamicItemP", "animate"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "alpha"]
+- !private ["So18UIFocusEnvironmentP", "animate"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "alpha"]
+- !private ["So11UIFocusItemP", "animate"]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "alpha"]
+- !private ["So20UIFocusItemContainerP", "animate"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "alpha"]
+- !private ["So30UIPasteConfigurationSupportingP", "animate"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "alpha"]
+- !private ["So11UIResponderC", "animate"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "alpha"]
+- !private ["So30UIResponderStandardEditActionsP", "animate"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "alpha"]
+- !private ["So18UITraitEnvironmentP", "animate"]
+- !private ["So26UITransitionContextViewKeya", "from"]
+- !private ["So26UITransitionContextViewKeya", "to"]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "alpha"]
+- !private ["So23UIUserActivityRestoringP", "animate"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "alpha"]
+- !private ["So6UIViewC", "animate"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "UITransitionContextViewKey"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "UIView"]
+- ["So37UIViewControllerAnimatedTransitioningP", ""]
+- ["So37UIViewControllerAnimatedTransitioningP", "animateTransition"]
+- ["So37UIViewControllerAnimatedTransitioningP", "animationEnded"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "init"]
+- ["So37UIViewControllerAnimatedTransitioningP", "interruptibleAnimator"]
+- ["So37UIViewControllerAnimatedTransitioningP", "interruptibleAnimatorForTransition"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "startingAlpha"]
+- ["So37UIViewControllerAnimatedTransitioningP", "transitionDuration"]
+- !private ["So36UIViewControllerContextTransitioningP", "completeTransition"]
+- !private ["So36UIViewControllerContextTransitioningP", "containerView"]
+- !private ["So36UIViewControllerContextTransitioningP", "view"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "alpha"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animate"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "from"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "to"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UITransitionContextViewKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animateTransition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationEnded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interruptibleAnimator"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interruptibleAnimatorForTransition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startingAlpha"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "transitionDuration"]
+- !private ["s21_ObjectiveCBridgeableP", "from"]
+- !private ["s21_ObjectiveCBridgeableP", "to"]
+- !private ["s20_SwiftNewtypeWrapperP", "from"]
+- !private ["s20_SwiftNewtypeWrapperP", "to"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "SY"
+- "18TKSubmitTransition16TKFadeInAnimatorC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So26UITransitionContextViewKeya"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So37UIViewControllerAnimatedTransitioningP"
+- !private "So36UIViewControllerContextTransitioningP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Target Support Files/TKSubmitTransition/TKSubmitTransition-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Pods.build/Debug-iphoneos/TKSubmitTransition.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0db623e5d40a695e656efce52a8ba256"

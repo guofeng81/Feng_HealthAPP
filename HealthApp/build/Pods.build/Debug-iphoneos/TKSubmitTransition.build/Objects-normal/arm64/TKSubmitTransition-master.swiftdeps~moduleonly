@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "3ec95d2809b4cef3e1e6003ed5c1ca83"
+build_time: [1541021974, 981307000]
+inputs:
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/TKSubmitTransition/SubmitTransition/Classes/CGRectEx.swift": [1541008515, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/TKSubmitTransition/SubmitTransition/Classes/FadeTransition.swift": [1541008515, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/TKSubmitTransition/SubmitTransition/Classes/SpinerLayer.swift": [1541008956, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/TKSubmitTransition/SubmitTransition/Classes/TimerEx.swift": [1541008515, 0]
+  "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/TKSubmitTransition/SubmitTransition/Classes/TransitionSubmitButton.swift": [1541008956, 0]

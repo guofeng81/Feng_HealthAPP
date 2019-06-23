@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration+Internal.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreConfigurable.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h

@@ -1,0 +1,10 @@
+framework module TKSubmitTransition {
+  umbrella header "TKSubmitTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module TKSubmitTransition.__Swift {
+    exclude header "TKSubmitTransition-Swift.h"
+}

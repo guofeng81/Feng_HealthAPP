@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutTableViewCell.swift"
+            timestampString = "562795552.664163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "WorkoutTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthAI.WorkoutTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HealthAI.WorkoutTableViewCell"
+                  moduleName = "HealthAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Naresh/Documents/HealthAIcurrent/WorkoutTableViewCell.swift"
+                  timestampString = "562787718.2991951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthAI.WorkoutTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HealthAI.WorkoutTableViewCell"
+                  moduleName = "HealthAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Naresh/Documents/HealthAIcurrent/WorkoutTableViewCell.swift"
+                  timestampString = "562787718.30159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthAI.WorkoutTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HealthAI.WorkoutTableViewCell&gt;"
+                  moduleName = "HealthAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Naresh/Documents/HealthAIcurrent/WorkoutTableViewCell.swift"
+                  timestampString = "562787718.304262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthAI.WorkoutTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HealthAI.WorkoutTableViewCell&gt;"
+                  moduleName = "HealthAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Naresh/Documents/HealthAIcurrent/WorkoutTableViewCell.swift"
+                  timestampString = "562787718.3070821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthAI.WorkoutTableViewCell.__deallocating_deinit"
+                  moduleName = "HealthAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Naresh/Documents/HealthAIcurrent/WorkoutTableViewCell.swift"
+                  timestampString = "562787718.309563"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

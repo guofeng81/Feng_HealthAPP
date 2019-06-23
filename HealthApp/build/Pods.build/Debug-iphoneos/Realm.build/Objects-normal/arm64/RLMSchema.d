@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/Realm/RLMSchema.mm \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Target\ Support\ Files/Realm/Realm-prefix.pch \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMSchema_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMSchema.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMAccessor.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectBase_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectBase.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObject_Private.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObject_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectBase_Dynamic.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObject.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMThreadSafeReference.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMRealm_Private.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMRealm_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMRealm.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMConstants.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMClassInfo.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMUtil.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMOptionalBase.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectSchema_Private.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectSchema_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMObjectSchema.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMProperty_Private.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMProperty.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/RLMSwiftSupport.h \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/object_schema.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/object_store.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/property.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/util/tagged_bool.hpp \
+  /Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Realm/include/schema.hpp

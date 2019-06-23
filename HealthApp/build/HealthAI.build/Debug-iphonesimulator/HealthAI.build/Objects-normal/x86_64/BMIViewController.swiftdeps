@@ -1,0 +1,1208 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BMIViewController"
+provides-nominal:
+- "8HealthAI17BMIViewControllerC"
+provides-member:
+- ["8HealthAI17BMIViewControllerC", ""]
+provides-dynamic-lookup:
+- "ActivityChanged"
+- "ActivitySC"
+- "GenderSC"
+- "ageField"
+- "bmrValue"
+- "calculatedValue"
+- "caloriesValue"
+- "genderChanged"
+- "goButton"
+- "heightLabel"
+- "heightSlider"
+- "heightValueChanged"
+- "heightValueLabel"
+- "ibwValue"
+- "statusLabel"
+- "viewDidLoad"
+- "weightLabel"
+- "weightSlider"
+- "weightValueChanged"
+- "weightValueLabel"
+depends-top-level:
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private "<"
+- !private "=="
+- !private ">"
+- !private ">="
+- "AssignmentPrecedence"
+- "BMIViewController"
+- "CastingPrecedence"
+- "Float"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- !private "NSString"
+- !private "String"
+- !private "StringLiteralType"
+- !private "UIColor"
+- "UILabel"
+- "UISegmentedControl"
+- "UISlider"
+- "UITextField"
+- "UIViewController"
+- !private "print"
+- !private "~="
+depends-member:
+- ["8HealthAI17BMIViewControllerC", "ActivityChanged"]
+- ["8HealthAI17BMIViewControllerC", "ActivitySC"]
+- ["8HealthAI17BMIViewControllerC", "Float"]
+- ["8HealthAI17BMIViewControllerC", "GenderSC"]
+- ["8HealthAI17BMIViewControllerC", "Int"]
+- !private ["8HealthAI17BMIViewControllerC", "NSString"]
+- !private ["8HealthAI17BMIViewControllerC", "String"]
+- !private ["8HealthAI17BMIViewControllerC", "UIColor"]
+- ["8HealthAI17BMIViewControllerC", "UILabel"]
+- ["8HealthAI17BMIViewControllerC", "UISegmentedControl"]
+- ["8HealthAI17BMIViewControllerC", "UISlider"]
+- ["8HealthAI17BMIViewControllerC", "UITextField"]
+- ["8HealthAI17BMIViewControllerC", "ageField"]
+- ["8HealthAI17BMIViewControllerC", "bmrValue"]
+- !private ["8HealthAI17BMIViewControllerC", "calculateBMI"]
+- !private ["8HealthAI17BMIViewControllerC", "calculateBMR"]
+- ["8HealthAI17BMIViewControllerC", "calculateIBW"]
+- ["8HealthAI17BMIViewControllerC", "calculatedValue"]
+- !private ["8HealthAI17BMIViewControllerC", "calories"]
+- ["8HealthAI17BMIViewControllerC", "caloriesValue"]
+- !private ["8HealthAI17BMIViewControllerC", "changeStatus"]
+- ["8HealthAI17BMIViewControllerC", "current_activity"]
+- ["8HealthAI17BMIViewControllerC", "current_gender"]
+- ["8HealthAI17BMIViewControllerC", "genderChanged"]
+- ["8HealthAI17BMIViewControllerC", "goButton"]
+- ["8HealthAI17BMIViewControllerC", "heightLabel"]
+- ["8HealthAI17BMIViewControllerC", "heightSlider"]
+- ["8HealthAI17BMIViewControllerC", "heightValueChanged"]
+- ["8HealthAI17BMIViewControllerC", "heightValueLabel"]
+- ["8HealthAI17BMIViewControllerC", "ibwValue"]
+- ["8HealthAI17BMIViewControllerC", "init"]
+- !private ["8HealthAI17BMIViewControllerC", "print"]
+- ["8HealthAI17BMIViewControllerC", "statusLabel"]
+- !private ["8HealthAI17BMIViewControllerC", "title"]
+- ["8HealthAI17BMIViewControllerC", "viewDidLoad"]
+- ["8HealthAI17BMIViewControllerC", "weightLabel"]
+- ["8HealthAI17BMIViewControllerC", "weightSlider"]
+- ["8HealthAI17BMIViewControllerC", "weightValueChanged"]
+- ["8HealthAI17BMIViewControllerC", "weightValueLabel"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SB", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "selectedSegmentIndex"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- !private ["So15CALayerDelegateP", "value"]
+- !private ["s7CVarArgP", "ActivitySC"]
+- !private ["s7CVarArgP", "Float"]
+- !private ["s7CVarArgP", "GenderSC"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "ageField"]
+- !private ["s7CVarArgP", "blue"]
+- !private ["s7CVarArgP", "bmrValue"]
+- !private ["s7CVarArgP", "calculateBMI"]
+- !private ["s7CVarArgP", "calculateBMR"]
+- !private ["s7CVarArgP", "calculateIBW"]
+- !private ["s7CVarArgP", "calculatedValue"]
+- !private ["s7CVarArgP", "calories"]
+- !private ["s7CVarArgP", "caloriesValue"]
+- !private ["s7CVarArgP", "changeStatus"]
+- !private ["s7CVarArgP", "current_activity"]
+- !private ["s7CVarArgP", "current_gender"]
+- !private ["s7CVarArgP", "floatValue"]
+- !private ["s7CVarArgP", "green"]
+- !private ["s7CVarArgP", "heightSlider"]
+- !private ["s7CVarArgP", "heightValueLabel"]
+- !private ["s7CVarArgP", "ibwValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "purple"]
+- !private ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "selectedSegmentIndex"]
+- !private ["s7CVarArgP", "statusLabel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textColor"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "weightSlider"]
+- !private ["s7CVarArgP", "weightValueLabel"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "ActivitySC"]
+- !private ["s28CustomDebugStringConvertibleP", "Float"]
+- !private ["s28CustomDebugStringConvertibleP", "GenderSC"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ageField"]
+- !private ["s28CustomDebugStringConvertibleP", "blue"]
+- !private ["s28CustomDebugStringConvertibleP", "bmrValue"]
+- !private ["s28CustomDebugStringConvertibleP", "calculateBMI"]
+- !private ["s28CustomDebugStringConvertibleP", "calculateBMR"]
+- !private ["s28CustomDebugStringConvertibleP", "calculateIBW"]
+- !private ["s28CustomDebugStringConvertibleP", "calculatedValue"]
+- !private ["s28CustomDebugStringConvertibleP", "calories"]
+- !private ["s28CustomDebugStringConvertibleP", "caloriesValue"]
+- !private ["s28CustomDebugStringConvertibleP", "changeStatus"]
+- !private ["s28CustomDebugStringConvertibleP", "current_activity"]
+- !private ["s28CustomDebugStringConvertibleP", "current_gender"]
+- !private ["s28CustomDebugStringConvertibleP", "floatValue"]
+- !private ["s28CustomDebugStringConvertibleP", "green"]
+- !private ["s28CustomDebugStringConvertibleP", "heightSlider"]
+- !private ["s28CustomDebugStringConvertibleP", "heightValueLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "ibwValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "purple"]
+- !private ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "selectedSegmentIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "statusLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "weightSlider"]
+- !private ["s28CustomDebugStringConvertibleP", "weightValueLabel"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "floatValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "selectedSegmentIndex"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "textColor"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s23CustomStringConvertibleP", "ActivitySC"]
+- !private ["s23CustomStringConvertibleP", "Float"]
+- !private ["s23CustomStringConvertibleP", "GenderSC"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "ageField"]
+- !private ["s23CustomStringConvertibleP", "blue"]
+- !private ["s23CustomStringConvertibleP", "bmrValue"]
+- !private ["s23CustomStringConvertibleP", "calculateBMI"]
+- !private ["s23CustomStringConvertibleP", "calculateBMR"]
+- !private ["s23CustomStringConvertibleP", "calculateIBW"]
+- !private ["s23CustomStringConvertibleP", "calculatedValue"]
+- !private ["s23CustomStringConvertibleP", "calories"]
+- !private ["s23CustomStringConvertibleP", "caloriesValue"]
+- !private ["s23CustomStringConvertibleP", "changeStatus"]
+- !private ["s23CustomStringConvertibleP", "current_activity"]
+- !private ["s23CustomStringConvertibleP", "current_gender"]
+- !private ["s23CustomStringConvertibleP", "floatValue"]
+- !private ["s23CustomStringConvertibleP", "green"]
+- !private ["s23CustomStringConvertibleP", "heightSlider"]
+- !private ["s23CustomStringConvertibleP", "heightValueLabel"]
+- !private ["s23CustomStringConvertibleP", "ibwValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "purple"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "selectedSegmentIndex"]
+- !private ["s23CustomStringConvertibleP", "statusLabel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "weightSlider"]
+- !private ["s23CustomStringConvertibleP", "weightValueLabel"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "selectedSegmentIndex"]
+- !private ["Se", "text"]
+- !private ["Se", "textColor"]
+- !private ["Se", "value"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "selectedSegmentIndex"]
+- !private ["SE", "text"]
+- !private ["SE", "textColor"]
+- !private ["SE", "value"]
+- !private ["SQ", "ActivitySC"]
+- !private ["SQ", "Float"]
+- !private ["SQ", "GenderSC"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIColor"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "ageField"]
+- !private ["SQ", "blue"]
+- !private ["SQ", "bmrValue"]
+- !private ["SQ", "calculateBMI"]
+- !private ["SQ", "calculateBMR"]
+- !private ["SQ", "calculateIBW"]
+- !private ["SQ", "calculatedValue"]
+- !private ["SQ", "calories"]
+- !private ["SQ", "caloriesValue"]
+- !private ["SQ", "changeStatus"]
+- !private ["SQ", "current_activity"]
+- !private ["SQ", "current_gender"]
+- !private ["SQ", "floatValue"]
+- !private ["SQ", "green"]
+- !private ["SQ", "heightSlider"]
+- !private ["SQ", "heightValueLabel"]
+- !private ["SQ", "ibwValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "print"]
+- !private ["SQ", "purple"]
+- !private ["SQ", "red"]
+- !private ["SQ", "selectedSegmentIndex"]
+- !private ["SQ", "statusLabel"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textColor"]
+- !private ["SQ", "title"]
+- !private ["SQ", "value"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "weightSlider"]
+- !private ["SQ", "weightValueLabel"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "floatValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "selectedSegmentIndex"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s23ExpressibleByNilLiteralP", "textColor"]
+- !private ["s23ExpressibleByNilLiteralP", "value"]
+- !private ["s26ExpressibleByStringLiteralP", "floatValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "floatValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["Sf", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "ActivitySC"]
+- !private ["SH", "Float"]
+- !private ["SH", "GenderSC"]
+- !private ["SH", "String"]
+- !private ["SH", "UIColor"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "ageField"]
+- !private ["SH", "blue"]
+- !private ["SH", "bmrValue"]
+- !private ["SH", "calculateBMI"]
+- !private ["SH", "calculateBMR"]
+- !private ["SH", "calculateIBW"]
+- !private ["SH", "calculatedValue"]
+- !private ["SH", "calories"]
+- !private ["SH", "caloriesValue"]
+- !private ["SH", "changeStatus"]
+- !private ["SH", "current_activity"]
+- !private ["SH", "current_gender"]
+- !private ["SH", "floatValue"]
+- !private ["SH", "green"]
+- !private ["SH", "heightSlider"]
+- !private ["SH", "heightValueLabel"]
+- !private ["SH", "ibwValue"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "print"]
+- !private ["SH", "purple"]
+- !private ["SH", "red"]
+- !private ["SH", "selectedSegmentIndex"]
+- !private ["SH", "statusLabel"]
+- !private ["SH", "text"]
+- !private ["SH", "textColor"]
+- !private ["SH", "title"]
+- !private ["SH", "value"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "weightSlider"]
+- !private ["SH", "weightValueLabel"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "ActivitySC"]
+- !private ["So8NSCodingP", "Float"]
+- !private ["So8NSCodingP", "GenderSC"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIColor"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "ageField"]
+- !private ["So8NSCodingP", "blue"]
+- !private ["So8NSCodingP", "bmrValue"]
+- !private ["So8NSCodingP", "calculateBMI"]
+- !private ["So8NSCodingP", "calculateBMR"]
+- !private ["So8NSCodingP", "calculateIBW"]
+- !private ["So8NSCodingP", "calculatedValue"]
+- !private ["So8NSCodingP", "calories"]
+- !private ["So8NSCodingP", "caloriesValue"]
+- !private ["So8NSCodingP", "changeStatus"]
+- !private ["So8NSCodingP", "current_activity"]
+- !private ["So8NSCodingP", "current_gender"]
+- !private ["So8NSCodingP", "floatValue"]
+- !private ["So8NSCodingP", "green"]
+- !private ["So8NSCodingP", "heightSlider"]
+- !private ["So8NSCodingP", "heightValueLabel"]
+- !private ["So8NSCodingP", "ibwValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "purple"]
+- !private ["So8NSCodingP", "red"]
+- !private ["So8NSCodingP", "selectedSegmentIndex"]
+- !private ["So8NSCodingP", "statusLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So8NSCodingP", "title"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "weightSlider"]
+- !private ["So8NSCodingP", "weightValueLabel"]
+- !private ["So9NSCopyingP", "blue"]
+- !private ["So9NSCopyingP", "floatValue"]
+- !private ["So9NSCopyingP", "green"]
+- !private ["So9NSCopyingP", "purple"]
+- !private ["So9NSCopyingP", "red"]
+- !private ["So26NSExtensionRequestHandlingP", "ActivitySC"]
+- !private ["So26NSExtensionRequestHandlingP", "Float"]
+- !private ["So26NSExtensionRequestHandlingP", "GenderSC"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "ageField"]
+- !private ["So26NSExtensionRequestHandlingP", "bmrValue"]
+- !private ["So26NSExtensionRequestHandlingP", "calculateBMI"]
+- !private ["So26NSExtensionRequestHandlingP", "calculateBMR"]
+- !private ["So26NSExtensionRequestHandlingP", "calculateIBW"]
+- !private ["So26NSExtensionRequestHandlingP", "calculatedValue"]
+- !private ["So26NSExtensionRequestHandlingP", "calories"]
+- !private ["So26NSExtensionRequestHandlingP", "caloriesValue"]
+- !private ["So26NSExtensionRequestHandlingP", "changeStatus"]
+- !private ["So26NSExtensionRequestHandlingP", "current_activity"]
+- !private ["So26NSExtensionRequestHandlingP", "current_gender"]
+- !private ["So26NSExtensionRequestHandlingP", "heightSlider"]
+- !private ["So26NSExtensionRequestHandlingP", "heightValueLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "ibwValue"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "statusLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "title"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "weightSlider"]
+- !private ["So26NSExtensionRequestHandlingP", "weightValueLabel"]
+- !private ["So21NSItemProviderReadingP", "blue"]
+- !private ["So21NSItemProviderReadingP", "floatValue"]
+- !private ["So21NSItemProviderReadingP", "green"]
+- !private ["So21NSItemProviderReadingP", "purple"]
+- !private ["So21NSItemProviderReadingP", "red"]
+- !private ["So21NSItemProviderWritingP", "blue"]
+- !private ["So21NSItemProviderWritingP", "floatValue"]
+- !private ["So21NSItemProviderWritingP", "green"]
+- !private ["So21NSItemProviderWritingP", "purple"]
+- !private ["So21NSItemProviderWritingP", "red"]
+- !private ["So16NSMutableCopyingP", "floatValue"]
+- ["So8NSObjectC", "ActivityChanged"]
+- ["So8NSObjectC", "ActivitySC"]
+- ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "GenderSC"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "NSString"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UISegmentedControl"]
+- ["So8NSObjectC", "UISlider"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "ageField"]
+- !private ["So8NSObjectC", "blue"]
+- ["So8NSObjectC", "bmrValue"]
+- ["So8NSObjectC", "calculateBMI"]
+- ["So8NSObjectC", "calculateBMR"]
+- ["So8NSObjectC", "calculateIBW"]
+- ["So8NSObjectC", "calculatedValue"]
+- ["So8NSObjectC", "calories"]
+- ["So8NSObjectC", "caloriesValue"]
+- ["So8NSObjectC", "changeStatus"]
+- ["So8NSObjectC", "current_activity"]
+- ["So8NSObjectC", "current_gender"]
+- !private ["So8NSObjectC", "floatValue"]
+- ["So8NSObjectC", "genderChanged"]
+- ["So8NSObjectC", "goButton"]
+- !private ["So8NSObjectC", "green"]
+- ["So8NSObjectC", "heightLabel"]
+- ["So8NSObjectC", "heightSlider"]
+- ["So8NSObjectC", "heightValueChanged"]
+- ["So8NSObjectC", "heightValueLabel"]
+- ["So8NSObjectC", "ibwValue"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "purple"]
+- !private ["So8NSObjectC", "red"]
+- !private ["So8NSObjectC", "selectedSegmentIndex"]
+- ["So8NSObjectC", "statusLabel"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textColor"]
+- !private ["So8NSObjectC", "title"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "weightLabel"]
+- ["So8NSObjectC", "weightSlider"]
+- ["So8NSObjectC", "weightValueChanged"]
+- ["So8NSObjectC", "weightValueLabel"]
+- !private ["So8NSObjectP", "ActivitySC"]
+- !private ["So8NSObjectP", "Float"]
+- !private ["So8NSObjectP", "GenderSC"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIColor"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "ageField"]
+- !private ["So8NSObjectP", "blue"]
+- !private ["So8NSObjectP", "bmrValue"]
+- !private ["So8NSObjectP", "calculateBMI"]
+- !private ["So8NSObjectP", "calculateBMR"]
+- !private ["So8NSObjectP", "calculateIBW"]
+- !private ["So8NSObjectP", "calculatedValue"]
+- !private ["So8NSObjectP", "calories"]
+- !private ["So8NSObjectP", "caloriesValue"]
+- !private ["So8NSObjectP", "changeStatus"]
+- !private ["So8NSObjectP", "current_activity"]
+- !private ["So8NSObjectP", "current_gender"]
+- !private ["So8NSObjectP", "floatValue"]
+- !private ["So8NSObjectP", "green"]
+- !private ["So8NSObjectP", "heightSlider"]
+- !private ["So8NSObjectP", "heightValueLabel"]
+- !private ["So8NSObjectP", "ibwValue"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "purple"]
+- !private ["So8NSObjectP", "red"]
+- !private ["So8NSObjectP", "selectedSegmentIndex"]
+- !private ["So8NSObjectP", "statusLabel"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "weightSlider"]
+- !private ["So8NSObjectP", "weightValueLabel"]
+- !private ["So14NSSecureCodingP", "blue"]
+- !private ["So14NSSecureCodingP", "floatValue"]
+- !private ["So14NSSecureCodingP", "green"]
+- !private ["So14NSSecureCodingP", "purple"]
+- !private ["So14NSSecureCodingP", "red"]
+- !private ["So8NSStringC", "floatValue"]
+- !private ["Sj", "init"]
+- !private ["Sq", "selectedSegmentIndex"]
+- !private ["Sq", "text"]
+- !private ["Sq", "textColor"]
+- !private ["Sq", "value"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "selectedSegmentIndex"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So29UIAccessibilityIdentificationP", "value"]
+- !private ["So12UIAppearanceP", "selectedSegmentIndex"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So12UIAppearanceP", "value"]
+- !private ["So21UIAppearanceContainerP", "ActivitySC"]
+- !private ["So21UIAppearanceContainerP", "Float"]
+- !private ["So21UIAppearanceContainerP", "GenderSC"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "ageField"]
+- !private ["So21UIAppearanceContainerP", "bmrValue"]
+- !private ["So21UIAppearanceContainerP", "calculateBMI"]
+- !private ["So21UIAppearanceContainerP", "calculateBMR"]
+- !private ["So21UIAppearanceContainerP", "calculateIBW"]
+- !private ["So21UIAppearanceContainerP", "calculatedValue"]
+- !private ["So21UIAppearanceContainerP", "calories"]
+- !private ["So21UIAppearanceContainerP", "caloriesValue"]
+- !private ["So21UIAppearanceContainerP", "changeStatus"]
+- !private ["So21UIAppearanceContainerP", "current_activity"]
+- !private ["So21UIAppearanceContainerP", "current_gender"]
+- !private ["So21UIAppearanceContainerP", "heightSlider"]
+- !private ["So21UIAppearanceContainerP", "heightValueLabel"]
+- !private ["So21UIAppearanceContainerP", "ibwValue"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "selectedSegmentIndex"]
+- !private ["So21UIAppearanceContainerP", "statusLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "title"]
+- !private ["So21UIAppearanceContainerP", "value"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "weightSlider"]
+- !private ["So21UIAppearanceContainerP", "weightValueLabel"]
+- !private ["So7UIColorC", "blue"]
+- !private ["So7UIColorC", "green"]
+- !private ["So7UIColorC", "purple"]
+- !private ["So7UIColorC", "red"]
+- !private ["So18UIContentContainerP", "ActivitySC"]
+- !private ["So18UIContentContainerP", "Float"]
+- !private ["So18UIContentContainerP", "GenderSC"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "ageField"]
+- !private ["So18UIContentContainerP", "bmrValue"]
+- !private ["So18UIContentContainerP", "calculateBMI"]
+- !private ["So18UIContentContainerP", "calculateBMR"]
+- !private ["So18UIContentContainerP", "calculateIBW"]
+- !private ["So18UIContentContainerP", "calculatedValue"]
+- !private ["So18UIContentContainerP", "calories"]
+- !private ["So18UIContentContainerP", "caloriesValue"]
+- !private ["So18UIContentContainerP", "changeStatus"]
+- !private ["So18UIContentContainerP", "current_activity"]
+- !private ["So18UIContentContainerP", "current_gender"]
+- !private ["So18UIContentContainerP", "heightSlider"]
+- !private ["So18UIContentContainerP", "heightValueLabel"]
+- !private ["So18UIContentContainerP", "ibwValue"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "statusLabel"]
+- !private ["So18UIContentContainerP", "title"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "weightSlider"]
+- !private ["So18UIContentContainerP", "weightValueLabel"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So9UIControlC", "selectedSegmentIndex"]
+- !private ["So9UIControlC", "text"]
+- !private ["So9UIControlC", "value"]
+- !private ["So17UICoordinateSpaceP", "selectedSegmentIndex"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "value"]
+- !private ["So13UIDynamicItemP", "selectedSegmentIndex"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So13UIDynamicItemP", "value"]
+- !private ["So18UIFocusEnvironmentP", "ActivitySC"]
+- !private ["So18UIFocusEnvironmentP", "Float"]
+- !private ["So18UIFocusEnvironmentP", "GenderSC"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "ageField"]
+- !private ["So18UIFocusEnvironmentP", "bmrValue"]
+- !private ["So18UIFocusEnvironmentP", "calculateBMI"]
+- !private ["So18UIFocusEnvironmentP", "calculateBMR"]
+- !private ["So18UIFocusEnvironmentP", "calculateIBW"]
+- !private ["So18UIFocusEnvironmentP", "calculatedValue"]
+- !private ["So18UIFocusEnvironmentP", "calories"]
+- !private ["So18UIFocusEnvironmentP", "caloriesValue"]
+- !private ["So18UIFocusEnvironmentP", "changeStatus"]
+- !private ["So18UIFocusEnvironmentP", "current_activity"]
+- !private ["So18UIFocusEnvironmentP", "current_gender"]
+- !private ["So18UIFocusEnvironmentP", "heightSlider"]
+- !private ["So18UIFocusEnvironmentP", "heightValueLabel"]
+- !private ["So18UIFocusEnvironmentP", "ibwValue"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "selectedSegmentIndex"]
+- !private ["So18UIFocusEnvironmentP", "statusLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "title"]
+- !private ["So18UIFocusEnvironmentP", "value"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "weightSlider"]
+- !private ["So18UIFocusEnvironmentP", "weightValueLabel"]
+- !private ["So11UIFocusItemP", "selectedSegmentIndex"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So11UIFocusItemP", "value"]
+- !private ["So20UIFocusItemContainerP", "selectedSegmentIndex"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "value"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "ActivitySC"]
+- !private ["So30UIPasteConfigurationSupportingP", "Float"]
+- !private ["So30UIPasteConfigurationSupportingP", "GenderSC"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "ageField"]
+- !private ["So30UIPasteConfigurationSupportingP", "bmrValue"]
+- !private ["So30UIPasteConfigurationSupportingP", "calculateBMI"]
+- !private ["So30UIPasteConfigurationSupportingP", "calculateBMR"]
+- !private ["So30UIPasteConfigurationSupportingP", "calculateIBW"]
+- !private ["So30UIPasteConfigurationSupportingP", "calculatedValue"]
+- !private ["So30UIPasteConfigurationSupportingP", "calories"]
+- !private ["So30UIPasteConfigurationSupportingP", "caloriesValue"]
+- !private ["So30UIPasteConfigurationSupportingP", "changeStatus"]
+- !private ["So30UIPasteConfigurationSupportingP", "current_activity"]
+- !private ["So30UIPasteConfigurationSupportingP", "current_gender"]
+- !private ["So30UIPasteConfigurationSupportingP", "heightSlider"]
+- !private ["So30UIPasteConfigurationSupportingP", "heightValueLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "ibwValue"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectedSegmentIndex"]
+- !private ["So30UIPasteConfigurationSupportingP", "statusLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "value"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "weightSlider"]
+- !private ["So30UIPasteConfigurationSupportingP", "weightValueLabel"]
+- ["So11UIResponderC", "ActivityChanged"]
+- ["So11UIResponderC", "ActivitySC"]
+- ["So11UIResponderC", "Float"]
+- ["So11UIResponderC", "GenderSC"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "NSString"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UISegmentedControl"]
+- ["So11UIResponderC", "UISlider"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "ageField"]
+- ["So11UIResponderC", "bmrValue"]
+- ["So11UIResponderC", "calculateBMI"]
+- ["So11UIResponderC", "calculateBMR"]
+- ["So11UIResponderC", "calculateIBW"]
+- ["So11UIResponderC", "calculatedValue"]
+- ["So11UIResponderC", "calories"]
+- ["So11UIResponderC", "caloriesValue"]
+- ["So11UIResponderC", "changeStatus"]
+- ["So11UIResponderC", "current_activity"]
+- ["So11UIResponderC", "current_gender"]
+- ["So11UIResponderC", "genderChanged"]
+- ["So11UIResponderC", "goButton"]
+- ["So11UIResponderC", "heightLabel"]
+- ["So11UIResponderC", "heightSlider"]
+- ["So11UIResponderC", "heightValueChanged"]
+- ["So11UIResponderC", "heightValueLabel"]
+- ["So11UIResponderC", "ibwValue"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "selectedSegmentIndex"]
+- ["So11UIResponderC", "statusLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So11UIResponderC", "title"]
+- !private ["So11UIResponderC", "value"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "weightLabel"]
+- ["So11UIResponderC", "weightSlider"]
+- ["So11UIResponderC", "weightValueChanged"]
+- ["So11UIResponderC", "weightValueLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "ActivitySC"]
+- !private ["So30UIResponderStandardEditActionsP", "Float"]
+- !private ["So30UIResponderStandardEditActionsP", "GenderSC"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "ageField"]
+- !private ["So30UIResponderStandardEditActionsP", "bmrValue"]
+- !private ["So30UIResponderStandardEditActionsP", "calculateBMI"]
+- !private ["So30UIResponderStandardEditActionsP", "calculateBMR"]
+- !private ["So30UIResponderStandardEditActionsP", "calculateIBW"]
+- !private ["So30UIResponderStandardEditActionsP", "calculatedValue"]
+- !private ["So30UIResponderStandardEditActionsP", "calories"]
+- !private ["So30UIResponderStandardEditActionsP", "caloriesValue"]
+- !private ["So30UIResponderStandardEditActionsP", "changeStatus"]
+- !private ["So30UIResponderStandardEditActionsP", "current_activity"]
+- !private ["So30UIResponderStandardEditActionsP", "current_gender"]
+- !private ["So30UIResponderStandardEditActionsP", "heightSlider"]
+- !private ["So30UIResponderStandardEditActionsP", "heightValueLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "ibwValue"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "selectedSegmentIndex"]
+- !private ["So30UIResponderStandardEditActionsP", "statusLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "title"]
+- !private ["So30UIResponderStandardEditActionsP", "value"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "weightSlider"]
+- !private ["So30UIResponderStandardEditActionsP", "weightValueLabel"]
+- !private ["So18UISegmentedControlC", "selectedSegmentIndex"]
+- !private ["So8UISliderC", "value"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "selectedSegmentIndex"]
+- !private ["So16UIStateRestoringP", "ActivitySC"]
+- !private ["So16UIStateRestoringP", "Float"]
+- !private ["So16UIStateRestoringP", "GenderSC"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "ageField"]
+- !private ["So16UIStateRestoringP", "bmrValue"]
+- !private ["So16UIStateRestoringP", "calculateBMI"]
+- !private ["So16UIStateRestoringP", "calculateBMR"]
+- !private ["So16UIStateRestoringP", "calculateIBW"]
+- !private ["So16UIStateRestoringP", "calculatedValue"]
+- !private ["So16UIStateRestoringP", "calories"]
+- !private ["So16UIStateRestoringP", "caloriesValue"]
+- !private ["So16UIStateRestoringP", "changeStatus"]
+- !private ["So16UIStateRestoringP", "current_activity"]
+- !private ["So16UIStateRestoringP", "current_gender"]
+- !private ["So16UIStateRestoringP", "heightSlider"]
+- !private ["So16UIStateRestoringP", "heightValueLabel"]
+- !private ["So16UIStateRestoringP", "ibwValue"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "statusLabel"]
+- !private ["So16UIStateRestoringP", "title"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "weightSlider"]
+- !private ["So16UIStateRestoringP", "weightValueLabel"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "ActivitySC"]
+- !private ["So18UITraitEnvironmentP", "Float"]
+- !private ["So18UITraitEnvironmentP", "GenderSC"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "ageField"]
+- !private ["So18UITraitEnvironmentP", "bmrValue"]
+- !private ["So18UITraitEnvironmentP", "calculateBMI"]
+- !private ["So18UITraitEnvironmentP", "calculateBMR"]
+- !private ["So18UITraitEnvironmentP", "calculateIBW"]
+- !private ["So18UITraitEnvironmentP", "calculatedValue"]
+- !private ["So18UITraitEnvironmentP", "calories"]
+- !private ["So18UITraitEnvironmentP", "caloriesValue"]
+- !private ["So18UITraitEnvironmentP", "changeStatus"]
+- !private ["So18UITraitEnvironmentP", "current_activity"]
+- !private ["So18UITraitEnvironmentP", "current_gender"]
+- !private ["So18UITraitEnvironmentP", "heightSlider"]
+- !private ["So18UITraitEnvironmentP", "heightValueLabel"]
+- !private ["So18UITraitEnvironmentP", "ibwValue"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "selectedSegmentIndex"]
+- !private ["So18UITraitEnvironmentP", "statusLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So18UITraitEnvironmentP", "title"]
+- !private ["So18UITraitEnvironmentP", "value"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "weightSlider"]
+- !private ["So18UITraitEnvironmentP", "weightValueLabel"]
+- !private ["So23UIUserActivityRestoringP", "ActivitySC"]
+- !private ["So23UIUserActivityRestoringP", "Float"]
+- !private ["So23UIUserActivityRestoringP", "GenderSC"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "UIColor"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "ageField"]
+- !private ["So23UIUserActivityRestoringP", "bmrValue"]
+- !private ["So23UIUserActivityRestoringP", "calculateBMI"]
+- !private ["So23UIUserActivityRestoringP", "calculateBMR"]
+- !private ["So23UIUserActivityRestoringP", "calculateIBW"]
+- !private ["So23UIUserActivityRestoringP", "calculatedValue"]
+- !private ["So23UIUserActivityRestoringP", "calories"]
+- !private ["So23UIUserActivityRestoringP", "caloriesValue"]
+- !private ["So23UIUserActivityRestoringP", "changeStatus"]
+- !private ["So23UIUserActivityRestoringP", "current_activity"]
+- !private ["So23UIUserActivityRestoringP", "current_gender"]
+- !private ["So23UIUserActivityRestoringP", "heightSlider"]
+- !private ["So23UIUserActivityRestoringP", "heightValueLabel"]
+- !private ["So23UIUserActivityRestoringP", "ibwValue"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "selectedSegmentIndex"]
+- !private ["So23UIUserActivityRestoringP", "statusLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "title"]
+- !private ["So23UIUserActivityRestoringP", "value"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "weightSlider"]
+- !private ["So23UIUserActivityRestoringP", "weightValueLabel"]
+- !private ["So6UIViewC", "selectedSegmentIndex"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textColor"]
+- !private ["So6UIViewC", "value"]
+- ["So16UIViewControllerC", "ActivityChanged"]
+- ["So16UIViewControllerC", "ActivitySC"]
+- ["So16UIViewControllerC", "Float"]
+- ["So16UIViewControllerC", "GenderSC"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "NSString"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UISegmentedControl"]
+- ["So16UIViewControllerC", "UISlider"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "ageField"]
+- ["So16UIViewControllerC", "bmrValue"]
+- ["So16UIViewControllerC", "calculateBMI"]
+- ["So16UIViewControllerC", "calculateBMR"]
+- ["So16UIViewControllerC", "calculateIBW"]
+- ["So16UIViewControllerC", "calculatedValue"]
+- ["So16UIViewControllerC", "calories"]
+- ["So16UIViewControllerC", "caloriesValue"]
+- ["So16UIViewControllerC", "changeStatus"]
+- ["So16UIViewControllerC", "current_activity"]
+- ["So16UIViewControllerC", "current_gender"]
+- ["So16UIViewControllerC", "genderChanged"]
+- ["So16UIViewControllerC", "goButton"]
+- ["So16UIViewControllerC", "heightLabel"]
+- ["So16UIViewControllerC", "heightSlider"]
+- ["So16UIViewControllerC", "heightValueChanged"]
+- ["So16UIViewControllerC", "heightValueLabel"]
+- ["So16UIViewControllerC", "ibwValue"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "statusLabel"]
+- !private ["So16UIViewControllerC", "title"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "weightLabel"]
+- ["So16UIViewControllerC", "weightSlider"]
+- ["So16UIViewControllerC", "weightValueChanged"]
+- ["So16UIViewControllerC", "weightValueLabel"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectedSegmentIndex"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "value"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "blue"]
+- !private ["s26_ExpressibleByColorLiteralP", "green"]
+- !private ["s26_ExpressibleByColorLiteralP", "purple"]
+- !private ["s26_ExpressibleByColorLiteralP", "red"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "floatValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ActivitySC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Float"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GenderSC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ageField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "blue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bmrValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calculateBMI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calculateBMR"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calculateIBW"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calculatedValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calories"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "caloriesValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "changeStatus"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current_activity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current_gender"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "floatValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "green"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "heightSlider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "heightValueLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ibwValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "purple"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectedSegmentIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "weightSlider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "weightValueLabel"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "selectedSegmentIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "textColor"]
+- !private ["s21_ObjectiveCBridgeableP", "value"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "8HealthAI17BMIViewControllerC"
+- !private "SK"
+- !private "SB"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "Sf"
+- !private "SF"
+- "SH"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So18UISegmentedControlC"
+- !private "So8UISliderC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/TKSubmitTransition/TKSubmitTransition.framework/Modules/TKSubmitTransition.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-umbrella.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Headers/SVRadialGradientLayer.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/TKSubmitTransition/TKSubmitTransition.framework/Headers/TKSubmitTransition-Swift.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Headers/SVIndefiniteAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressAnimatedView.h"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/priscilla/Documents/UbiComProject/HealthAI/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIOct31 copy/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SVProgressHUD/SVProgressHUD.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/build/Debug-iphonesimulator/TKSubmitTransition/TKSubmitTransition.framework/Modules/module.modulemap"
+- "/Users/priscilla/Documents/UbiComProject/ProjectDB/HealthAIcurrent/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3f6a56ad615e93d137a8c350d37e2bfb"
